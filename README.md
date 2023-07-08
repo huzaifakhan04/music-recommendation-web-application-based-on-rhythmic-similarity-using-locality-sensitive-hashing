@@ -60,8 +60,8 @@ Therefore, by utilising Approximate Nearest Neighbors (ANN) instead of MinHash, 
 ## Contributors:
 
 This project exists thanks to the extraordinary people who contributed to it.
-* **[Mahnoor Zahid Raja] (i211740@nu.edu.pk)**
 * **[Mohammad Abubakar Siddiq](https://github.com/bakar0208) (i212742@nu.edu.pk)**
+* **[Mahnoor Zahid Raja](https://github.com/MahnoorZahidRaja) (i211740@nu.edu.pk)**
 
 ---
 
