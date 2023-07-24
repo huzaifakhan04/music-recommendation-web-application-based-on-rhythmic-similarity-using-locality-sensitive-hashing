@@ -1,4 +1,4 @@
-# Music Recommendation Web Application (Flask) Based on Rhythmic Similarity Using Locality-Sensitive Hashing (LSH):
+# Music Recommendation Web Application Based on Rhythmic Similarity Using Locality-Sensitive Hashing (LSH):
 
 This repository contains a web application that integrates with a music recommendation system, which leverages a dataset of 3,415 audio files, each lasting thirty seconds, utilising a Locality-Sensitive Hashing (LSH) implementation to determine rhythmic similarity, as part of an assignment for the Fundamental of Big Data Analytics (DS2004) course.
 
