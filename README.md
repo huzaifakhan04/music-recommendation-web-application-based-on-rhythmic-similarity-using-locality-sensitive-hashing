@@ -43,7 +43,7 @@ Therefore, by utilising Approximate Nearest Neighbors (ANN) instead of MinHash, 
 ## Usage:
 
 * ``Music Recommendation Based on Rhythmic Similarity Using Locality-Sensitive Hashing (LSH).ipynb`` — Contains the implementation of our Locality-Sensitive Hashing (LSH) implementation to train and evaluate a music recommendation system on the audio dataset.
-* ``app.py`` — Source for the web application (Flask) that accompanies the music recommendation system.
+* ``app.py`` — Source code for the web application (Flask) that accompanies the music recommendation system.
 * ``templates`` — Contains the source codes for the web pages, namely ``index.html`` and ``predict.html``, which are rendered by the web application (Flask).
 * ``static`` — Contains all the icons and visual elements utilised by the web application (Flask).
 * ``static\files`` — Directory where the audio files uploaded by users on the web application (Flask) are stored.
